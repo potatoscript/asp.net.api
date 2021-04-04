@@ -1,2 +1,1 @@
-# asp.net.api
-ASP.NET API cheat sheets
+# [ASP.NET API Cheat Sheet](https://github.com/potatoscript/asp.net.api/wiki)
